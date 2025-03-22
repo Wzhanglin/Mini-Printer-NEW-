@@ -1,0 +1,13 @@
+mini-printer\croutine.o: ..\Middle\FreeRtos\source\croutine.c
+mini-printer\croutine.o: ..\Middle\FreeRtos\include\FreeRTOS.h
+mini-printer\croutine.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stddef.h
+mini-printer\croutine.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stdint.h
+mini-printer\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+mini-printer\croutine.o: ..\Middle\FreeRtos\include\projdefs.h
+mini-printer\croutine.o: ..\Middle\FreeRtos\include\portable.h
+mini-printer\croutine.o: ..\Middle\FreeRtos\include\deprecated_definitions.h
+mini-printer\croutine.o: ..\Middle\FreeRtos\portable\RVDS\ARM_CM3\portmacro.h
+mini-printer\croutine.o: ..\Middle\FreeRtos\include\mpu_wrappers.h
+mini-printer\croutine.o: ..\Middle\FreeRtos\include\task.h
+mini-printer\croutine.o: ..\Middle\FreeRtos\include\list.h
+mini-printer\croutine.o: ..\Middle\FreeRtos\include\croutine.h

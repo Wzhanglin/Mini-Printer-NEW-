@@ -1,0 +1,14 @@
+mini-printer\stream_buffer.o: ..\Middle\FreeRtos\source\stream_buffer.c
+mini-printer\stream_buffer.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stdint.h
+mini-printer\stream_buffer.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\string.h
+mini-printer\stream_buffer.o: ..\Middle\FreeRtos\include\FreeRTOS.h
+mini-printer\stream_buffer.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stddef.h
+mini-printer\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+mini-printer\stream_buffer.o: ..\Middle\FreeRtos\include\projdefs.h
+mini-printer\stream_buffer.o: ..\Middle\FreeRtos\include\portable.h
+mini-printer\stream_buffer.o: ..\Middle\FreeRtos\include\deprecated_definitions.h
+mini-printer\stream_buffer.o: ..\Middle\FreeRtos\portable\RVDS\ARM_CM3\portmacro.h
+mini-printer\stream_buffer.o: ..\Middle\FreeRtos\include\mpu_wrappers.h
+mini-printer\stream_buffer.o: ..\Middle\FreeRtos\include\task.h
+mini-printer\stream_buffer.o: ..\Middle\FreeRtos\include\list.h
+mini-printer\stream_buffer.o: ..\Middle\FreeRtos\include\stream_buffer.h

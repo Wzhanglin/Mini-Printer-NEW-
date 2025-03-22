@@ -1,0 +1,12 @@
+mini-printer\list.o: ..\Middle\FreeRtos\source\list.c
+mini-printer\list.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stdlib.h
+mini-printer\list.o: ..\Middle\FreeRtos\include\FreeRTOS.h
+mini-printer\list.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stddef.h
+mini-printer\list.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stdint.h
+mini-printer\list.o: ../Core/Inc/FreeRTOSConfig.h
+mini-printer\list.o: ..\Middle\FreeRtos\include\projdefs.h
+mini-printer\list.o: ..\Middle\FreeRtos\include\portable.h
+mini-printer\list.o: ..\Middle\FreeRtos\include\deprecated_definitions.h
+mini-printer\list.o: ..\Middle\FreeRtos\portable\RVDS\ARM_CM3\portmacro.h
+mini-printer\list.o: ..\Middle\FreeRtos\include\mpu_wrappers.h
+mini-printer\list.o: ..\Middle\FreeRtos\include\list.h

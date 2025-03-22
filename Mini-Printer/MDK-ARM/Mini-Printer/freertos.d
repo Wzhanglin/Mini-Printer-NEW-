@@ -1,0 +1,10 @@
+mini-printer\freertos.o: ..\User\src\freeRTos.c
+mini-printer\freertos.o: ..\Middle\FreeRtos\include\freeRTos.h
+mini-printer\freertos.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stddef.h
+mini-printer\freertos.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stdint.h
+mini-printer\freertos.o: ../Core/Inc/FreeRTOSConfig.h
+mini-printer\freertos.o: ..\Middle\FreeRtos\include\projdefs.h
+mini-printer\freertos.o: ..\Middle\FreeRtos\include\portable.h
+mini-printer\freertos.o: ..\Middle\FreeRtos\include\deprecated_definitions.h
+mini-printer\freertos.o: ..\Middle\FreeRtos\portable\RVDS\ARM_CM3\portmacro.h
+mini-printer\freertos.o: ..\Middle\FreeRtos\include\mpu_wrappers.h

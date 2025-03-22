@@ -1,0 +1,15 @@
+mini-printer\timers.o: ..\Middle\FreeRtos\source\timers.c
+mini-printer\timers.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stdlib.h
+mini-printer\timers.o: ..\Middle\FreeRtos\include\FreeRTOS.h
+mini-printer\timers.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stddef.h
+mini-printer\timers.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stdint.h
+mini-printer\timers.o: ../Core/Inc/FreeRTOSConfig.h
+mini-printer\timers.o: ..\Middle\FreeRtos\include\projdefs.h
+mini-printer\timers.o: ..\Middle\FreeRtos\include\portable.h
+mini-printer\timers.o: ..\Middle\FreeRtos\include\deprecated_definitions.h
+mini-printer\timers.o: ..\Middle\FreeRtos\portable\RVDS\ARM_CM3\portmacro.h
+mini-printer\timers.o: ..\Middle\FreeRtos\include\mpu_wrappers.h
+mini-printer\timers.o: ..\Middle\FreeRtos\include\task.h
+mini-printer\timers.o: ..\Middle\FreeRtos\include\list.h
+mini-printer\timers.o: ..\Middle\FreeRtos\include\queue.h
+mini-printer\timers.o: ..\Middle\FreeRtos\include\timers.h
