@@ -22,12 +22,16 @@ mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
 mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
 mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
 mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
 mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
 mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
 mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 mini-printer\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+mini-printer\main.o: ../Core/Inc/adc.h
+mini-printer\main.o: ../Core/Inc/dma.h
 mini-printer\main.o: ../Core/Inc/tim.h
 mini-printer\main.o: ../Core/Inc/usart.h
 mini-printer\main.o: ../Core/Inc/gpio.h
@@ -44,4 +48,7 @@ mini-printer\main.o: ..\Middle\FreeRtos\include\list.h
 mini-printer\main.o: ..\User\inc\led.h
 mini-printer\main.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stdio.h
 mini-printer\main.o: ..\User\inc\key.h
+mini-printer\main.o: ..\User\inc\adc_dection.h
+mini-printer\main.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\math.h
+mini-printer\main.o: ..\User\inc\freertos_start.h
 mini-printer\main.o: ..\User\inc\sys_init.h

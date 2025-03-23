@@ -2,7 +2,7 @@
 Build target 'Mini-Printer'
 compiling freertos_start.c...
 linking...
-Program Size: Code=8872 RO-data=312 RW-data=140 ZI-data=18852  
+Program Size: Code=17536 RO-data=392 RW-data=168 ZI-data=18968  
 FromELF: creating hex file...
 "Mini-Printer\Mini-Printer.axf" - 0 Error(s), 0 Warning(s).
-Build Time Elapsed:  00:00:02
+Build Time Elapsed:  00:00:03

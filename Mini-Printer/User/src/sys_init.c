@@ -7,4 +7,5 @@ void sys_init(void)
 {
     led_init();
     key_init();
+    adc_init();
 }

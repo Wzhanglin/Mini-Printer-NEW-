@@ -7,6 +7,7 @@
 #include "led.h"
 #include "stdio.h"
 #include "key.h"
+#include "adc_dection.h"
 
 int fputc(int c, FILE *f);
 

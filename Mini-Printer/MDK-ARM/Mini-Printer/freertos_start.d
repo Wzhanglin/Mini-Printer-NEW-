@@ -33,6 +33,8 @@ mini-printer\freertos_start.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal
 mini-printer\freertos_start.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
 mini-printer\freertos_start.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
 mini-printer\freertos_start.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+mini-printer\freertos_start.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+mini-printer\freertos_start.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
 mini-printer\freertos_start.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 mini-printer\freertos_start.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 mini-printer\freertos_start.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
@@ -44,3 +46,7 @@ mini-printer\freertos_start.o: ../Core/Inc/gpio.h
 mini-printer\freertos_start.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\stdio.h
 mini-printer\freertos_start.o: ..\User\inc\key.h
 mini-printer\freertos_start.o: ../Core/Inc/tim.h
+mini-printer\freertos_start.o: ..\User\inc\adc_dection.h
+mini-printer\freertos_start.o: ../Core/Inc/adc.h
+mini-printer\freertos_start.o: F:\keilSTM32\Download\ARM\ARMCC\Bin\..\include\math.h
+mini-printer\freertos_start.o: ..\User\inc\freertos_start.h
